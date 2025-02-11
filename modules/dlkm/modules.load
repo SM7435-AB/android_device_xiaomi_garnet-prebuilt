@@ -2,7 +2,6 @@ msm_sysstats.ko
 zsmalloc.ko
 lzo.ko
 lzo-rle.ko
-cpq.ko
 msm_show_resume_irq.ko
 mhi.ko
 mhi_dev_uci.ko
@@ -277,7 +276,6 @@ wcd938x_dlkm.ko
 wcd938x_slave_dlkm.ko
 cs35l43_dlkm.ko
 aw882xx_dlkm.ko
-fs19xx_dlkm.ko
 wcd937x_dlkm.ko
 wcd937x_slave_dlkm.ko
 hdmi_dlkm.ko

@@ -97,7 +97,6 @@ msm_sysstats.ko
 zsmalloc.ko
 lzo.ko
 lzo-rle.ko
-cpq.ko
 msm_show_resume_irq.ko
 mhi.ko
 mhi_dev_uci.ko
